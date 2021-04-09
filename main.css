@@ -1,0 +1,68 @@
+    ul li {
+        list-style: none;
+        float: left;
+        padding-right: 20px;
+    }
+
+    .cityList {
+        padding-left: -10px;
+    }
+
+    .cityAllList {
+        padding-top: 5px;
+        color: lightgray;
+        font-size: 15px;
+    }
+
+    .card {
+        margin-bottom: 20px;
+    }
+
+    .card-body ul {
+        padding-left: 10px;
+    }
+
+    .card-body ul li {
+        float: none;
+    }
+
+    .card-body ul li p {
+        display: inline-block;
+    }
+
+    .card-body ul li p b {
+        font-size: 25px;
+    }
+
+    #nav-fluid {
+        background-color: gray;
+        color: white;
+    }
+
+    #nav {
+        padding-bottom: 3px;
+        display: fixed;
+    }
+
+    #title p {
+        padding-top: 7px;
+    }
+
+    #aboutUs {
+        text-align: right;
+    }
+
+    #citySearch {
+        padding-top: 20px;
+    }
+
+    #weather_detail {
+        padding-top: 30px;
+    }
+
+    #coldReminder {
+        text-align: center;
+        font-size: 13px;
+        display: none;
+        padding-bottom: 30px;
+    }
